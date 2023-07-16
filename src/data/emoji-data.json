@@ -1727,10 +1727,6 @@
         "description": "Gente abrazándose"
       },
       {
-        "emoji": "👣",
-        "description": "Huellas"
-      },
-      {
         "emoji": "🧳",
         "description": "Equipaje"
       },
@@ -1948,22 +1944,6 @@
         "description": "Mono que no habla mal"
       },
       {
-        "emoji": "💥",
-        "description": "Colisión"
-      },
-      {
-        "emoji": "💫",
-        "description": "Mareado"
-      },
-      {
-        "emoji": "💦",
-        "description": "Gotas de sudor"
-      },
-      {
-        "emoji": "💨",
-        "description": "Corriendo lejos"
-      },
-      {
         "emoji": "🐵",
         "description": "Cara de mono"
       },
@@ -2097,7 +2077,7 @@
       },
       {
         "emoji": "🐗",
-        "description": "Jabali"
+        "description": "Jabalí"
       },
       {
         "emoji": "🐽",
@@ -2224,10 +2204,6 @@
         "description": "Tejón"
       },
       {
-        "emoji": "🐾",
-        "description": "Huellas de garras"
-      },
-      {
         "emoji": "🦃",
         "description": "Pavo"
       },
@@ -2288,10 +2264,6 @@
         "description": "Búho"
       },
       {
-        "emoji": "🦤",
-        "description": "Vejestorio"
-      },
-      {
         "emoji": "🪽",
         "description": "Ala"
       },
@@ -2337,7 +2309,7 @@
       },
       {
         "emoji": "🐉",
-        "description": "Continuar"
+        "description": "Dragón"
       },
       {
         "emoji": "🦕",
@@ -2345,7 +2317,7 @@
       },
       {
         "emoji": "🦖",
-        "description": "Tirano saurio Rex"
+        "description": "Tiranosaurio Rex"
       },
       {
         "emoji": "🐳",
@@ -2361,7 +2333,7 @@
       },
       {
         "emoji": "🦭",
-        "description": "Sello"
+        "description": "Foca"
       },
       {
         "emoji": "🐟",
@@ -2449,7 +2421,7 @@
       },
       {
         "emoji": "🪰",
-        "description": "Volar"
+        "description": "Mosca"
       },
       {
         "emoji": "🪱",
@@ -2822,7 +2794,7 @@
       },
       {
         "emoji": "🍌",
-        "description": "Banana"
+        "description": "Plátano"
       },
       {
         "emoji": "🍍",
@@ -2862,7 +2834,7 @@
       },
       {
         "emoji": "🥝",
-        "description": "Fruta de kiwi"
+        "description": "Kiwi"
       },
       {
         "emoji": "🍅",
@@ -2894,7 +2866,7 @@
       },
       {
         "emoji": "🌽",
-        "description": "Mazorca de maíz"
+        "description": "Choclo"
       },
       {
         "emoji": "🌶️",
@@ -2902,7 +2874,7 @@
       },
       {
         "emoji": "🫑",
-        "description": "Pimiento morrón"
+        "description": "Pimiento"
       },
       {
         "emoji": "🥒",
@@ -2910,7 +2882,7 @@
       },
       {
         "emoji": "🥬",
-        "description": "Verde frondoso"
+        "description": "Acelga"
       },
       {
         "emoji": "🥦",
@@ -2918,7 +2890,7 @@
       },
       {
         "emoji": "🫛",
-        "description": "Vaina de guisante"
+        "description": "Alverjita"
       },
       {
         "emoji": "🧄",
@@ -2938,7 +2910,7 @@
       },
       {
         "emoji": "🥜",
-        "description": "Miseria"
+        "description": "Nueces"
       },
       {
         "emoji": "🫘",
@@ -2954,7 +2926,7 @@
       },
       {
         "emoji": "🥐",
-        "description": "Cuerno"
+        "description": "Pan Cachito"
       },
       {
         "emoji": "🥖",
@@ -2970,7 +2942,7 @@
       },
       {
         "emoji": "🥯",
-        "description": "Rosquilla"
+        "description": "Donas"
       },
       {
         "emoji": "🥞",
@@ -2990,7 +2962,7 @@
       },
       {
         "emoji": "🍗",
-        "description": "Pierna de ave"
+        "description": "Pierna de Pollo"
       },
       {
         "emoji": "🥩",
@@ -3170,7 +3142,7 @@
       },
       {
         "emoji": "🍩",
-        "description": "Rosquilla"
+        "description": "Dona"
       },
       {
         "emoji": "🍪",
@@ -3178,7 +3150,7 @@
       },
       {
         "emoji": "🎂",
-        "description": "Pastel de cumpleaños"
+        "description": "Torta de cumpleaños"
       },
       {
         "emoji": "🍰",
@@ -3319,27 +3291,27 @@
     "emojis": [
       {
         "emoji": "🕴️",
-        "description": "Persona en Traje Levitando"
+        "description": "Persona en traje levitando"
       },
       {
         "emoji": "🧗",
-        "description": "Persona escalando"
+        "description": "Persona Escalando"
       },
       {
         "emoji": "🧗‍♂️",
-        "description": "Hombre escalada"
+        "description": "Hombre trepando"
       },
       {
         "emoji": "🧗‍♀️",
-        "description": "Mujer escalada"
+        "description": "Mujer Escalando"
       },
       {
         "emoji": "🤺",
-        "description": "Esgrima de personas"
+        "description": "Persona esgrimiendo"
       },
       {
         "emoji": "🏇",
-        "description": "Las carreras de caballos"
+        "description": "Carrera de caballos"
       },
       {
         "emoji": "⛷️",
@@ -3351,11 +3323,11 @@
       },
       {
         "emoji": "🏌️",
-        "description": "Persona jugando al golf"
+        "description": "Persona Golf"
       },
       {
         "emoji": "🏌️‍♂️",
-        "description": "Hombre jugando al golf"
+        "description": "Hombre Golf"
       },
       {
         "emoji": "🏌️‍♀️",
@@ -3363,27 +3335,27 @@
       },
       {
         "emoji": "🏄",
-        "description": "Persona surfeando"
+        "description": "Surfista"
       },
       {
         "emoji": "🏄‍♂️",
-        "description": "Hombre surf"
+        "description": "Hombre surfeando"
       },
       {
         "emoji": "🏄‍♀️",
-        "description": "Mujer surf"
+        "description": "Mujer Surfeando"
       },
       {
         "emoji": "🚣",
-        "description": "Bote de remos de persona"
+        "description": "Persona remando"
       },
       {
         "emoji": "🚣‍♂️",
-        "description": "Bote de remos de hombre"
+        "description": "Hombre remando"
       },
       {
         "emoji": "🚣‍♀️",
-        "description": "Bote de remos de mujer"
+        "description": "Mujer remando"
       },
       {
         "emoji": "🏊",
@@ -3399,7 +3371,7 @@
       },
       {
         "emoji": "⛹️",
-        "description": "Persona que rebota la pelota"
+        "description": "Persona botando pelota"
       },
       {
         "emoji": "⛹️‍♂️",
@@ -3407,15 +3379,15 @@
       },
       {
         "emoji": "⛹️‍♀️",
-        "description": "Mujer rebotando pelota"
+        "description": "Mujer botando pelota"
       },
       {
         "emoji": "🏋️",
-        "description": "Persona levantando pesas"
+        "description": "Persona Levantando Pesas"
       },
       {
         "emoji": "🏋️‍♂️",
-        "description": "Hombre, levantamiento de pesas"
+        "description": "Hombre levantando pesas"
       },
       {
         "emoji": "🏋️‍♀️",
@@ -3435,31 +3407,31 @@
       },
       {
         "emoji": "🚵",
-        "description": "Ciclismo de montaña"
+        "description": "Persona en Bicicleta de Montaña"
       },
       {
         "emoji": "🚵‍♂️",
-        "description": "Ciclismo de montaña hombre"
+        "description": "Hombre en Bicicleta de Montaña"
       },
       {
         "emoji": "🚵‍♀️",
-        "description": "Mujer ciclismo de montaña"
+        "description": "Mujer en Bicicleta de Montaña"
       },
       {
         "emoji": "🤸",
-        "description": "Persona dando volteretas"
+        "description": "Persona Rueda de Carro"
       },
       {
         "emoji": "🤸‍♂️",
-        "description": "Hombre dando volteretas"
+        "description": "Hombre Rueda de Carro"
       },
       {
         "emoji": "🤸‍♀️",
-        "description": "Mujer dando volteretas"
+        "description": "Mujer Rueda de Carro"
       },
       {
         "emoji": "🤼",
-        "description": "Lucha de personas"
+        "description": "Personas luchando"
       },
       {
         "emoji": "🤼‍♂️",
@@ -3471,7 +3443,7 @@
       },
       {
         "emoji": "🤽",
-        "description": "Persona jugando waterpolo"
+        "description": "Persona Jugando Water Polo"
       },
       {
         "emoji": "🤽‍♂️",
@@ -3479,19 +3451,19 @@
       },
       {
         "emoji": "🤽‍♀️",
-        "description": "Mujer jugando waterpolo"
+        "description": "Mujer jugando al waterpolo"
       },
       {
         "emoji": "🤾",
-        "description": "Persona jugando balonmano"
+        "description": "Persona jugando al balonmano"
       },
       {
         "emoji": "🤾‍♂️",
-        "description": "Hombre jugando balonmano"
+        "description": "Hombre jugando al balonmano"
       },
       {
         "emoji": "🤾‍♀️",
-        "description": "Mujer jugando balonmano"
+        "description": "Mujer jugando al balonmano"
       },
       {
         "emoji": "🤹",
@@ -3519,15 +3491,15 @@
       },
       {
         "emoji": "🎪",
-        "description": "Tienda de circo"
+        "description": "Carpa de circo"
       },
       {
         "emoji": "🛹",
-        "description": "Patineta"
+        "description": "Monopatín"
       },
       {
         "emoji": "🛼",
-        "description": "Patín"
+        "description": "Patín de ruedas"
       },
       {
         "emoji": "🛶",
@@ -3535,19 +3507,19 @@
       },
       {
         "emoji": "🎗️",
-        "description": "Cinta de recordatorio"
+        "description": "Cinta recordatoria"
       },
       {
         "emoji": "🎟️",
-        "description": "Boletos de admisión"
+        "description": "Billetes de entrada"
       },
       {
         "emoji": "🎫",
-        "description": "Boleto"
+        "description": "Billete"
       },
       {
         "emoji": "🎖️",
-        "description": "Medalla Militar"
+        "description": "Medalla militar"
       },
       {
         "emoji": "🏆",
@@ -3559,15 +3531,15 @@
       },
       {
         "emoji": "🥇",
-        "description": "Medalla de 1er lugar"
+        "description": "Medalla del 1er puesto"
       },
       {
         "emoji": "🥈",
-        "description": "Medalla de 2do lugar"
+        "description": "Medalla del 2º puesto"
       },
       {
         "emoji": "🥉",
-        "description": "Medalla de 3er lugar"
+        "description": "Medalla del 3er puesto"
       },
       {
         "emoji": "⚽",
@@ -3579,7 +3551,7 @@
       },
       {
         "emoji": "🥎",
-        "description": "Sofbol"
+        "description": "Softbol"
       },
       {
         "emoji": "🏀",
@@ -3587,7 +3559,7 @@
       },
       {
         "emoji": "🏐",
-        "description": "Vóleibol"
+        "description": "Voleibol"
       },
       {
         "emoji": "🏈",
@@ -3595,7 +3567,7 @@
       },
       {
         "emoji": "🏉",
-        "description": "Rugby fútbol"
+        "description": "Fútbol Rugby"
       },
       {
         "emoji": "🎾",
@@ -3603,7 +3575,7 @@
       },
       {
         "emoji": "🥏",
-        "description": "Disco volador"
+        "description": "Disco Volador"
       },
       {
         "emoji": "🎳",
@@ -3611,7 +3583,7 @@
       },
       {
         "emoji": "🏏",
-        "description": "Juego de críquet"
+        "description": "Juego de Cricket"
       },
       {
         "emoji": "🏑",
@@ -3627,7 +3599,7 @@
       },
       {
         "emoji": "🏓",
-        "description": "Ping pong"
+        "description": "Ping Pong"
       },
       {
         "emoji": "🏸",
@@ -3635,7 +3607,7 @@
       },
       {
         "emoji": "🥊",
-        "description": "Guante de boxeo"
+        "description": "Guante de Boxeo"
       },
       {
         "emoji": "🥋",
@@ -3643,15 +3615,15 @@
       },
       {
         "emoji": "🥅",
-        "description": "Meta Neta"
+        "description": "Red de Portería"
       },
       {
         "emoji": "⛳",
-        "description": "Bandera en Agujero"
+        "description": "Bandera en el agujero"
       },
       {
         "emoji": "⛸️",
-        "description": "Patinar sobre hielo"
+        "description": "Patín de hielo"
       },
       {
         "emoji": "🎣",
@@ -3671,15 +3643,15 @@
       },
       {
         "emoji": "🥌",
-        "description": "Piedra que se encrespa"
+        "description": "Piedra de curling"
       },
       {
         "emoji": "🎯",
-        "description": "Diana"
+        "description": "Tiro al blanco"
       },
       {
         "emoji": "🎱",
-        "description": "Bola de billar 8"
+        "description": "Bola 8 de billar"
       },
       {
         "emoji": "🎮",
@@ -3687,19 +3659,19 @@
       },
       {
         "emoji": "🎰",
-        "description": "Maquina de casino"
+        "description": "Tragamonedas"
       },
       {
         "emoji": "🎲",
-        "description": "Juego morir"
+        "description": "Juego de dados"
       },
       {
         "emoji": "🧩",
-        "description": "Pieza de puzzle"
+        "description": "Pieza de Rompecabezas"
       },
       {
         "emoji": "🪩",
-        "description": "Bola de espejos"
+        "description": "Bola de Espejos"
       },
       {
         "emoji": "♟️",
@@ -3707,7 +3679,7 @@
       },
       {
         "emoji": "🎭",
-        "description": "Las artes escénicas"
+        "description": "Artes escénicas"
       },
       {
         "emoji": "🎨",
@@ -3723,7 +3695,7 @@
       },
       {
         "emoji": "🎼",
-        "description": "Puntuación musical"
+        "description": "Partitura musical"
       },
       {
         "emoji": "🎤",
@@ -3775,7 +3747,7 @@
       },
       {
         "emoji": "🎬",
-        "description": "Tablero de badajo"
+        "description": "Badajo"
       },
       {
         "emoji": "🏹",

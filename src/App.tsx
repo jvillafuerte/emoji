@@ -6,7 +6,7 @@ import emojis from './data/emoji-data.json';
 
 const App: FC = () => {
   const [activeCategory, setActiveCategory] = useState<number>(1);
-  const [selectedEmoji, setSelectedEmoji] = useState<number[]>([1, 102]);
+  const [selectedEmoji, setSelectedEmoji] = useState<number[]>([1, 96]);
 
   return (
     <div className='w-full h-full flex flex-col'>

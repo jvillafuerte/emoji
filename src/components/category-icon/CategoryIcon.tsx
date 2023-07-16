@@ -24,7 +24,7 @@ const CategoryIcon: FC<{ category: number, activeCategory: number, setActiveCate
   return (
     <div
       onClick={() => setActiveCategory(category)}
-      className={`w-8 h-8 p-1 m-1 ${isSelected ? 'bg-[#475B6D] rounded-full': ''}`}
+      className={`w-9 h-9 p-1 m-1 flex flex-row items-center justify-center flex-shrink-0 ${isSelected ? 'bg-[#475B6D] rounded-full': ''}`}
       dangerouslySetInnerHTML={{ __html: icon }}
     />
   );
