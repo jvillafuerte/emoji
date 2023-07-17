@@ -28,14 +28,16 @@ const textToSpeech = (text: String) => {
 const EmojiViewer: FC<{ activeEmoji: EmojiItem }> = ({ activeEmoji }) => {
 
   return (
-    <div className='w-full h-1/2 flex flex-col items-center justify-around'>
+    <div className='w-full h-2/5 flex flex-col items-center'>
       <span
-        className="emoji text-14xl block w-fit select-none h-[calc(100%-40px)] flex-row justify-center items-center"
+        className="emoji text-12xl block w-fit select-none h-60"
         onClick={() => textToSpeech(activeEmoji.description)}
       >
         {activeEmoji.emoji}
       </span>
-      <span className=''>{activeEmoji.description}</span>
+      <span className='text-[#ffffff99] block bg-[#00000033] w-full text-center py-1'>
+        {activeEmoji.description}
+      </span>
     </div>
   );
 }

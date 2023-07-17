@@ -9,7 +9,7 @@ const App: FC = () => {
   const [selectedEmoji, setSelectedEmoji] = useState<number[]>([1, 96]);
 
   return (
-    <div className='w-full h-full flex flex-col'>
+    <div className='w-full h-full flex flex-col bg-gradient-to-b from-[#1A3A81] from-10% via-[#7BAAF1] via-50% to-[#AFD2C1] to-90%'>
       <EmojiViewer activeEmoji={emojis[selectedEmoji[0]].emojis[selectedEmoji[1]]} />
       <EmojiGallery
         activeCategory={activeCategory}
