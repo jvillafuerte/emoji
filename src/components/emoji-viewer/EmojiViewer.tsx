@@ -33,7 +33,7 @@ const EmojiViewer: FC<{ activeEmoji: EmojiItem }> = ({ activeEmoji }) => {
         className="emoji block w-full select-none h-[calc(100%-32px)] bg-no-repeat bg-contain bg-center"
         onClick={() => textToSpeech(activeEmoji.d)}
         style={{
-          backgroundImage: `url("data:image/svg+xml,<svg width='150px' height='150px' xmlns='http://www.w3.org/2000/svg'><text x='0' y='130px' font-size='130px' clip-path='url(%23emojiClipPath)'>${activeEmoji.e}</text></svg>")`
+          backgroundImage: `url("data:image/svg+xml,<svg width='150px' height='150px' xmlns='http://www.w3.org/2000/svg'><text x='10px' y='130px' font-size='130px' clip-path='url(%23emojiClipPath)'>${activeEmoji.e}</text></svg>")`
         }}
       >
       </div>
