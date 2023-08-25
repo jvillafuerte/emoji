@@ -50,6 +50,7 @@ const App: FC = () => {
       className='w-full h-screen flex flex-col wide:flex-row-reverse wide:px-10 bg-gradient-to-b wide:bg-gradient-to-r from-[#ACF9F7] from-10% via-[#4DB8E1] via-50% to-[#ACF9F7] to-90%'
       style={extraStyle}
     >
+      {JSON.stringify(extraStyle)}
       <EmojiViewer activeEmoji={emojis[selectedEmoji[0]].es[selectedEmoji[1]]} />
       <EmojiGallery
         activeCategory={activeCategory}
