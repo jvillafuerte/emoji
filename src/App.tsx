@@ -16,41 +16,29 @@ import EmojiGallery from './components/emoji-gallery/EmojiGallery';
 
 import emojis from './data/emoji-cleaned.json';
 
+const isIos = () => {
+  const userAgent = window.navigator.userAgent.toLowerCase();
+  return /iphone|ipad|ipod/.test( userAgent );
+}
+const isInStandaloneMode = () => ('standalone' in (window as any).navigator) && ((window as any).navigator.standalone);
+
 const App: FC = () => {
   const [activeCategory, setActiveCategory] = useState<number>(1);
   const [selectedEmoji, setSelectedEmoji] = useState<number[]>([1, 81]);
 
   let extraStyle = {};
 
-  let displayMode = "browser tab";
-  const navi = {
-    standalone: false,
-    ...navigator,
-  }
-
-  if (navi.standalone) {
-    displayMode = 'standalone-ios';
-  }
-  if (window.matchMedia('(display-mode: standalone)').matches) {
-    displayMode = 'standalone';
-  }
-
-  if (displayMode.indexOf('standalone') !== -1) {
+  if (isIos() && isInStandaloneMode()) {
     extraStyle = {
       height: '100vh'
-    };
-  } else {
-    extraStyle = {
-      height: '100%'
     };
   }
 
   return (
     <div
-      className='w-full h-screen flex flex-col wide:flex-row-reverse wide:px-10 bg-gradient-to-b wide:bg-gradient-to-r from-[#ACF9F7] from-10% via-[#4DB8E1] via-50% to-[#ACF9F7] to-90%'
+      className='w-full h-full flex flex-col wide:flex-row-reverse wide:px-10 bg-gradient-to-b wide:bg-gradient-to-r from-[#B1E0F8] from-10% via-[#55A5FE] via-50% to-[#B1E0F8] to-90%'
       style={extraStyle}
     >
-      {JSON.stringify(extraStyle)}
       <EmojiViewer activeEmoji={emojis[selectedEmoji[0]].es[selectedEmoji[1]]} />
       <EmojiGallery
         activeCategory={activeCategory}

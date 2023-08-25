@@ -8,6 +8,7 @@ html, body, #root {
 
 body {
   touch-action: pan-x pan-y;
+  background-color: #B1E0F8;
 }
 
 .emoji {
