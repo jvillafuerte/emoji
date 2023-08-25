@@ -1,11 +1,11 @@
 export interface EmojiItem {
-  emoji: String;
-  description: String;
+  e: String;
+  d: String;
 };
 
 export interface EmojiCategory {
-  category: String;
-  emojis: EmojiItem[];
+  c: String;
+  es: EmojiItem[];
 }
 
 export type EmojiData = EmojiCategory[];

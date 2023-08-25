@@ -14,3 +14,7 @@ body {
   font-family: Apple Color Emoji,Segoe UI Emoji,Noto Color Emoji,Android Emoji,EmojiSymbols,EmojiOne Mozilla,Twemoji Mozilla,Segoe UI Symbol,Noto Color Emoji Compat,emoji,noto-emojipedia-fallback;
   font-weight: 400;
 }
+
+.selected-emoji-name {
+  background: radial-gradient(circle, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 100%);
+}

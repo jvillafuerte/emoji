@@ -17,32 +17,27 @@ const EmojiGallery: FC<EmojiGalleryProps> = ({
   setSelectedEmoji,
   setActiveCategory,
 }) => {
-  const { category, emojis: emojiArr } = emojis[activeCategory];
+  const { c, es: emojiArr } = emojis[activeCategory];
 
   return (
-    <div className='h-3/5'>
-      <div className='max-w-3xl mx-auto h-full px-2 box-content'>
+    <div className='landscape:w-2/3 h-3/5 landscape:h-full'>
+      <div className='max-w-3xl mx-auto h-full px-2 box-content flex flex-col justify-end'>
         <div
-          className='uppercase text-[#ffffff99] px-1 py-2'
-        >
-          {category}
-        </div>
-        <div
-          className='flex flex-col w-[100% - 1px] h-[calc(100%-134px)] gap-1 overflow-y-auto flex-wrap '
+          className='flex flex-col w-[100% - 1px] h-[calc(100%-70px)] landscape:h-[calc(100%-10px)] gap-1 overflow-y-auto flex-wrap '
         >
           {
             emojiArr.map((item, index) => (
               <span
-                key={`${category}-${index}`}
+                key={`${c}-${index}`}
                 onClick={() => setSelectedEmoji([activeCategory, index])}
                 className={`w-12 h-12 text-4xl p-1 flex flex-row justify-center items-center select-none focus:rounded-md focus:bg-[#00000066] ${activeCategory === selectedEmoji[0] && index === selectedEmoji[1] ? 'rounded-md bg-[#00000066]' : ''}`}
               >
-                {item.emoji}
+                {item.e}
               </span>
             ))
           }
         </div>
-        <div className='flex flex-row'>
+        <div className='flex flex-row mb-5 landscape:mb-1'>
           {
             emojis.map((_, index) => (
               <CategoryIcon
