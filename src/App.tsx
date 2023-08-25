@@ -21,7 +21,7 @@ const App: FC = () => {
   const [selectedEmoji, setSelectedEmoji] = useState<number[]>([1, 81]);
 
   return (
-    <div className='w-full h-full flex flex-col wide:flex-row-reverse wide:px-10 bg-gradient-to-b from-[#1A3A81] from-10% via-[#7BAAF1] via-50% to-[#AFD2C1] to-90%'>
+    <div className='w-full h-full flex flex-col wide:flex-row-reverse wide:px-10 bg-gradient-to-b wide:bg-gradient-to-r from-[#ACF9F7] from-10% via-[#4DB8E1] via-50% to-[#ACF9F7] to-90%'>
       <EmojiViewer activeEmoji={emojis[selectedEmoji[0]].es[selectedEmoji[1]]} />
       <EmojiGallery
         activeCategory={activeCategory}
