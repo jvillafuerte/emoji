@@ -20,10 +20,10 @@ const EmojiGallery: FC<EmojiGalleryProps> = ({
   const { c, es: emojiArr } = emojis[activeCategory];
 
   return (
-    <div className='landscape:w-2/3 h-3/5 landscape:h-full'>
+    <div className='wide:w-2/3 h-3/5 wide:h-full'>
       <div className='max-w-3xl mx-auto h-full px-2 box-content flex flex-col justify-end'>
         <div
-          className='flex flex-col w-[100% - 1px] h-[calc(100%-70px)] landscape:h-[calc(100%-10px)] gap-1 overflow-y-auto flex-wrap '
+          className='flex flex-col w-[100% - 1px] h-[calc(100%-70px)] wide:h-[calc(100%-10px)] gap-1 overflow-y-auto flex-wrap '
         >
           {
             emojiArr.map((item, index) => (
@@ -37,7 +37,7 @@ const EmojiGallery: FC<EmojiGalleryProps> = ({
             ))
           }
         </div>
-        <div className='flex flex-row mb-5 landscape:mb-1'>
+        <div className='flex flex-row mb-5 wide:mb-1'>
           {
             emojis.map((_, index) => (
               <CategoryIcon

@@ -28,7 +28,7 @@ const textToSpeech = (text: String) => {
 const EmojiViewer: FC<{ activeEmoji: EmojiItem }> = ({ activeEmoji }) => {
 
   return (
-    <div className='w-full landscape:w-1/3 h-2/5 landscape:h-[calc(100%-4px)] flex flex-col items-center'>
+    <div className='w-full wide:w-1/3 h-2/5 wide:h-[calc(100%-4px)] flex flex-col items-center'>
       <div
         className="emoji block w-full select-none h-[calc(100%-32px)] bg-no-repeat bg-contain bg-center"
         onClick={() => textToSpeech(activeEmoji.d)}
