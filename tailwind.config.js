@@ -7,6 +7,8 @@ module.exports = {
     extend: {
       fontSize: {
         '12xl': '12rem',
+        'emoji-h': '27vh',
+        'emoji-w': '30vw'
       },
       screens: {
         'wide': {
