@@ -1186,14 +1186,6 @@
         "d": "Canoa"
       },
       {
-        "e": "🎫",
-        "d": "Billete"
-      },
-      {
-        "e": "🎖️",
-        "d": "Medalla militar"
-      },
-      {
         "e": "🏆",
         "d": "Trofeo"
       },
@@ -1203,31 +1195,7 @@
       },
       {
         "e": "⚽",
-        "d": "Pelota de fútbol"
-      },
-      {
-        "e": "⚾",
-        "d": "Béisbol"
-      },
-      {
-        "e": "🏀",
-        "d": "Baloncesto"
-      },
-      {
-        "e": "🏐",
-        "d": "Voleibol"
-      },
-      {
-        "e": "🏈",
-        "d": "Fútbol americano"
-      },
-      {
-        "e": "🏉",
-        "d": "Fútbol Rugby"
-      },
-      {
-        "e": "🎾",
-        "d": "Tenis"
+        "d": "Pelota"
       },
       {
         "e": "🏓",
@@ -1235,7 +1203,7 @@
       },
       {
         "e": "🥋",
-        "d": "Uniforme de artes marciales"
+        "d": "Uniforme de karate"
       },
       {
         "e": "⛸️",
@@ -1306,10 +1274,6 @@
         "d": "Arco y flecha"
       },
       {
-        "e": "🏔️",
-        "d": "Montaña cubierta de nieve"
-      },
-      {
         "e": "⛰️",
         "d": "Montaña"
       },
@@ -1374,18 +1338,6 @@
         "d": "Iglesia"
       },
       {
-        "e": "🕌",
-        "d": "Mezquita"
-      },
-      {
-        "e": "🛕",
-        "d": "Templo hindú"
-      },
-      {
-        "e": "🕍",
-        "d": "Sinagoga"
-      },
-      {
         "e": "⛲",
         "d": "Fuente"
       },
@@ -1411,7 +1363,7 @@
       },
       {
         "e": "🚒",
-        "d": "Camion de bomberos"
+        "d": "Camión de bomberos"
       },
       {
         "e": "🚓",
@@ -1880,7 +1832,7 @@
       },
       {
         "e": "🧯",
-        "d": "Extintor de incendios"
+        "d": "Extintor"
       }
     ]
   }

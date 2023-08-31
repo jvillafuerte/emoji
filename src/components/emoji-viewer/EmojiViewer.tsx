@@ -1,6 +1,8 @@
 import { FC } from 'react';
 import { EmojiItem } from '../../types';
 
+import animatedEmojis from '../../data/emoji-animated.json';
+
 const readOutLoud = (text: String, voices: any) => {
   if ('speechSynthesis' in window) {
     let speakData = new SpeechSynthesisUtterance();
@@ -30,14 +32,35 @@ const EmojiViewer: FC<{ activeEmoji: EmojiItem }> = ({ activeEmoji }) => {
   return (
     <div className='w-full wide:w-1/3 h-2/5 wide:h-[calc(100%-4px)] flex flex-col items-center'>
       <div
-        className="emoji w-full select-none h-[calc(100%-32px)] flex flex-row items-center justify-center"
+        className="emoji w-full select-none h-[calc(100%-32px)] flex flex-row items-end justify-center"
       >
-        <span
-          className='text-emoji-h wide:text-emoji-w'
-          onClick={() => textToSpeech(activeEmoji.d)}
-        >
-          {activeEmoji.e}
-        </span>
+        {
+          !animatedEmojis[activeEmoji.e as keyof typeof animatedEmojis] ? (
+            <span
+              className='text-emoji-h wide:text-emoji-w'
+              onClick={() => textToSpeech(activeEmoji.d)}
+            >
+              {activeEmoji.e}
+            </span>
+          ) : (
+            <picture onClick={() => textToSpeech(activeEmoji.d)}>
+              <source
+                className='select-none'
+                src={`https://fonts.gstatic.com/s/e/notoemoji/latest/${animatedEmojis[activeEmoji.e as keyof typeof animatedEmojis]}/512.webp`}
+                type="image/webp"
+                draggable='false'
+              />
+              <img
+                className='select-none'
+                draggable='false'
+                src={`https://fonts.gstatic.com/s/e/notoemoji/latest/${animatedEmojis[activeEmoji.e as keyof typeof animatedEmojis]}/512.gif`}
+                alt={activeEmoji.e as string}
+                width="220"
+                height="220"
+                />
+            </picture>
+          )
+        }
       </div>
       <span
         className='text-[#ffffff99] block w-full text-center py-1 select-none h-8 selected-emoji-name'
