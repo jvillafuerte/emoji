@@ -13,7 +13,7 @@ body {
 }
 
 .emoji {
-  /* font-family: 'Noto Color Emoji', sans-serif; */
+  font-family: 'Noto Color Emoji', sans-serif;
   font-weight: 400;
 }
 
