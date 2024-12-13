@@ -30,7 +30,7 @@ const EmojiGallery: FC<EmojiGalleryProps> = ({
               <span
                 key={`${c}-${index}`}
                 onClick={() => setSelectedEmoji([activeCategory, index])}
-                className={`emoji w-12 h-12 text-4xl sm:w-16 sm:h-16 sm:text-5xl p-1 flex flex-row justify-center items-center select-none focus:rounded-md focus:bg-[#00000066] ${activeCategory === selectedEmoji[0] && index === selectedEmoji[1] ? 'rounded-md bg-[#00000066]' : ''}`}
+                className={`w-12 h-12 text-4xl sm:w-16 sm:h-16 sm:text-5xl p-1 flex flex-row justify-center items-center select-none focus:rounded-md focus:bg-[#00000066] ${activeCategory === selectedEmoji[0] && index === selectedEmoji[1] ? 'rounded-md bg-[#00000066]' : ''}`}
               >
                 {item.e}
               </span>
@@ -50,7 +50,7 @@ const EmojiGallery: FC<EmojiGalleryProps> = ({
           }
         </div>
       </div>
-      
+
     </div>
   );
 }

@@ -2,21 +2,21 @@
 @tailwind components;
 @tailwind utilities;
 
-html, body, #root {
+html,
+body,
+#root {
   height: 100%;
 }
 
 body {
   touch-action: pan-x pan-y;
-  background-color: #B1E0F8;
+  background-color: #b1e0f8;
   overflow: hidden;
 }
-
-.emoji {
-  font-family: 'Noto Color Emoji', sans-serif;
-  font-weight: 400;
-}
-
 .selected-emoji-name {
-  background: radial-gradient(circle, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 100%);
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 0.1) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
 }

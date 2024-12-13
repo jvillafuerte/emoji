@@ -30,7 +30,7 @@ const EmojiViewer: FC<{ activeEmoji: EmojiItem }> = ({ activeEmoji }) => {
   return (
     <div className='w-full wide:w-1/3 h-2/5 wide:h-[calc(100%-4px)] flex flex-col items-center'>
       <div
-        className="emoji w-full select-none h-[calc(100%-32px)] flex flex-row items-end justify-center"
+        className="w-full select-none h-[calc(100%-32px)] flex flex-row items-end justify-center"
       >
         <span
               className='text-emoji-h wide:text-emoji-w'
