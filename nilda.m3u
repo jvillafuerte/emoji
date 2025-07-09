@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png", ATV | PE
+https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="2" tvg-name="ATV Sur" tvg-logo="https://cdn.m3u.cl/logo/1492_ATV_Sur.png", ATV Sur | PE
+https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="3" tvg-name="ATV+" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png", ATV+ | PE
+https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="4" tvg-name="Latina" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png", Latina | PE
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="5" tvg-name="America TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Am%C3%A9rica_Televisi%C3%B3n_logo_con_fondo_naranja_-_entretenimiento_2016-.svg/revision/latest/scale-to-width-down/250?cb=20240207233426&path-prefix=es", America TV | PE
+https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="GlobalTV.pe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bd/Global_logo_2019.png",Global TV
+https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
