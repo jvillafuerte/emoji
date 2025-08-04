@@ -6,7 +6,7 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" tvg-logo="https://cdn.m3u.cl/logo/1066_ATV_.png" group-title="Perú", ATV+
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="lch2189" tvg-name="Latina" tvg-logo="https://cdn.m3u.cl/logo/1657_Latina.png" group-title="Perú", Latina
-https://live-evg25.tv360.bitel.com.pe/bitel/latina/playlist.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clásicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú",Latina Clásicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/640px-Latina_Noticias_Noviembre_2024.svg.png" group-title="Perú",Latina Noticias
@@ -33,7 +33,7 @@ https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
 #EXTINF:-1 tvg-id="FMHMovies" tvg-name="FMHMovies" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Movies",FMH Movies
 https://live-evg1.tv360.bitel.com.pe/bitel/fmhmovies_ori/playlist.m3u8
-#EXTINF:-1 tvg-id="FMHKids" tvg-name="FMHKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="kids",FMH Kids
+#EXTINF:-1 tvg-id="FMHKids" tvg-name="FMHKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Kids",FMH Kids
 https://live-evg1.tv360.bitel.com.pe/bitel/fmhkids_ori/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimaKids" tvg-name="AnimaKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/1751295673567/6fb8c332464c_480_270.png" group-title="Kids",Anima Kids
 https://live-evg1.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
