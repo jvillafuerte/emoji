@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="lch2205" tvg-name="ATV" tvg-logo="https://graph.facebook.com/atvpe/picture?width=200&height=200" group-title="Perú", ATV
 https://d19e55ehz2il4i.cloudfront.net/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="ATVSur.pe" tvg-name="ATV Sur" tvg-logo="https://graph.facebook.com/atvsur/picture?width=200&height=200" group-title="Perú", ATV Sur
+#EXTINF:-1 tvg-id="ATVSur.peee" tvg-name="ATV Sur" tvg-logo="https://graph.facebook.com/atvsur/picture?width=200&height=200" group-title="Perú", ATV Sur
 https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200" group-title="Perú", ATV+
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
