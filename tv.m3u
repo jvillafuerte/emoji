@@ -7,9 +7,9 @@ https://d3r5ioyjqcy69v.cloudfront.net/index.m3u8?PlaylistM3UCL
 https://d1svme839xkbsn.cloudfront.net/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="hhttps://graph.facebook.com/latinape/picture?width=200&height=200" group-title="Perú", Latina
 https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="LatinaClasicos.pe" tvg-name="Latina Clásicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú",Latina Clásicos
+#EXTINF:-1 tvg-id="LatinaClasicos.peeee" tvg-name="Latina Clásicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú",Latina Clásicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LatinaNoticias.pe" tvg-name="Latina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/640px-Latina_Noticias_Noviembre_2024.svg.png" group-title="Perú",Latina Noticias
+#EXTINF:-1 tvg-id="LatinaNoticias.peeee" tvg-name="Latina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/640px-Latina_Noticias_Noviembre_2024.svg.png" group-title="Perú",Latina Noticias
 https://live-evg1.tv360.bitel.com.pe/bitel/latinanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2202" tvg-name="América TV" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú", America TV
 https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
