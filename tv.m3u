@@ -31,11 +31,11 @@ https://live-evg1.tv360.bitel.com.pe/bitel/exitosa/playlist.m3u8
 https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 #EXTINF:-1 tvg-id="VisionSur" tvg-name="VisionSur" tvg-logo="https://graph.facebook.com/visionsurtv/picture?width=200&height=200" group-title="Perú",Visión Sur
 https://live-evg1.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8
-#EXTINF:-1 tvg-id="FMHMovies" tvg-name="FMHMovies" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Movies",FMH Movies
+#EXTINF:-1 tvg-id="FMHMovies" tvg-name="FMHMovies" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Perú",FMH Movies
 https://live-evg1.tv360.bitel.com.pe/bitel/fmhmovies_ori/playlist.m3u8
-#EXTINF:-1 tvg-id="FMHKids" tvg-name="FMHKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Kids",FMH Kids
+#EXTINF:-1 tvg-id="FMHKids" tvg-name="FMHKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Perú",FMH Kids
 https://live-evg1.tv360.bitel.com.pe/bitel/fmhkids_ori/playlist.m3u8
-#EXTINF:-1 tvg-id="AnimaKids" tvg-name="AnimaKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/1751295673567/6fb8c332464c_480_270.png" group-title="Kids",Anima Kids
+#EXTINF:-1 tvg-id="AnimaKids" tvg-name="AnimaKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/1751295673567/6fb8c332464c_480_270.png" group-title="Perú",Anima Kids
 https://live-evg1.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8
-#EXTINF:-1 tvg-id="PequesTV" tvg-name="PequesTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/175129608138/cdd7f4ccd761_480_270.png" group-title="kids",Peques TV
+#EXTINF:-1 tvg-id="PequesTV" tvg-name="PequesTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/175129608138/cdd7f4ccd761_480_270.png" group-title="Perú",Peques TV
 https://live-evg1.tv360.bitel.com.pe/bitel/pequestv/playlist.m3u8
