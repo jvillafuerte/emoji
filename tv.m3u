@@ -23,8 +23,8 @@ https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="lch5614" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=200&height=200" group-title="Perú" tvg-name="Willax",Willax
 https://live-evg20.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8
-# #EXTINF:-1 tvg-id="lch2203" tvg-name="PanamericanaTV.pe" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Perú",Panamericana TV
-# https://live-evg1.tv360.bitel.com.pe/bitel/panamericana/playlist.m3u8
+#EXTINF:-1 tvg-id="lch2203" tvg-name="PanamericanaTV.pe" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Perú",Panamericana TV
+https://live-evg20.tv360.bitel.com.pe/bitel/panamericana_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="lch5594" tvg-name="ExitosaTV.pe" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Perú",Exitosa Noticias
 https://live-evg20.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8
 #EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO.pe" tvg-logo="https://graph.facebook.com/PBOPeru/picture?width=200&height=200" group-title="Perú",PBO
