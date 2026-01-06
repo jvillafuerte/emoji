@@ -12,7 +12,7 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 # #EXTINF:-1 tvg-id="LatinaNoticias.peeee" tvg-name="Latina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/640px-Latina_Noticias_Noviembre_2024.svg.png" group-title="Perú",Latina Noticias
 # https://live-evg1.tv360.bitel.com.pe/bitel/latinanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="lch2202" tvg-name="América TV" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú", America TV
-https://live-evg20.tv360.bitel.com.pe/bitel/America-UDP_abr/playlist.m3u8?uid=9671940
+https://live-evg20.tv360.bitel.com.pe/bitel/America-udp_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch2215" tvg-name="GlobalTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_480_270.png" group-title="Perú",Global TV
 https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch2204" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú",TV Perú
