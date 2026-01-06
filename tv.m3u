@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="lch2205" tvg-name="ATV" tvg-logo="https://graph.facebook.com/atvpe/picture?width=200&height=200" group-title="Perú", ATV
-https://live-evg20.tv360.bitel.com.pe/bitel/Atv-UDP_abr/playlist.m3u8?uid=9671940
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv-udp_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="ATVSur.peee" tvg-name="ATV Sur" tvg-logo="https://graph.facebook.com/atvsur/picture?width=200&height=200" group-title="Perú", ATV Sur
-https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_abr/playlist.m3u8?uid=9671940
+https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200" group-title="Perú", ATV+
-https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-UDP_abr/playlist.m3u8?uid=9671940
+https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-udp_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Perú", Latina
-https://live-evg20.tv360.bitel.com.pe/bitel/Latina-UDP_abr/playlist.m3u8?uid=9671940
+https://live-evg7.tv360.bitel.com.pe/bitel/latina_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="LatinaClasicos.peeee" tvg-name="Latina Clásicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú",Latina Clásicos
 https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 # #EXTINF:-1 tvg-id="LatinaNoticias.peeee" tvg-name="Latina Noticias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Latina_Noticias_Noviembre_2024.svg/640px-Latina_Noticias_Noviembre_2024.svg.png" group-title="Perú",Latina Noticias
@@ -14,27 +14,27 @@ https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3
 #EXTINF:-1 tvg-id="lch2202" tvg-name="América TV" tvg-logo="https://graph.facebook.com/americatelevision/picture?width=200&height=200" group-title="Perú", America TV
 https://live-evg20.tv360.bitel.com.pe/bitel/America-udp_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch2215" tvg-name="GlobalTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/01/02/21/1735829804503/8dfc28d8c469_480_270.png" group-title="Perú",Global TV
-https://live-evg7.tv360.bitel.com.pe/bitel/global_abr/playlist.m3u8?uid=9671940
+https://live-evg7.tv360.bitel.com.pe/bitel/global_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch2204" tvg-logo="https://graph.facebook.com/TVPeruOficial/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú",TV Perú
-https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-UDP_abr/playlist.m3u8?uid=9671940
+https://live-evg20.tv360.bitel.com.pe/bitel/TVPeru-udp_720p/playlist.m3u8?uid=9671940
 # #EXTINF:-1 tvg-id="lch6468" tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="Perú" tvg-name="TV Perú Noticias",TV Perú Noticias
 # https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 # #EXTINF:-1 tvg-id="lch6469" tvg-logo="https://graph.facebook.com/canalipe/picture?width=200&height=200" group-title="Perú" tvg-name="Canal IPe Perú",Canal IPe
 # https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8
 #EXTINF:-1 tvg-id="lch5614" tvg-logo="https://graph.facebook.com/willaxtv/picture?width=200&height=200" group-title="Perú" tvg-name="Willax",Willax
-https://live-evg7.tv360.bitel.com.pe/bitel/willax_abr/playlist.m3u8?uid=9671940
+https://live-evg7.tv360.bitel.com.pe/bitel/willax_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch2203" tvg-name="PanamericanaTV.pe" tvg-logo="https://graph.facebook.com/panamericana.pe/picture?width=200&height=200" group-title="Perú",Panamericana TV
-https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-UDP_abr/playlist.m3u8?uid=9671940
+https://live-evg20.tv360.bitel.com.pe/bitel/Panamericana-udp_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="lch5594" tvg-name="ExitosaTV.pe" tvg-logo="https://graph.facebook.com/Exitosanoticias/picture?width=200&height=200" group-title="Perú",Exitosa Noticias
-https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_abr/playlist.m3u8?uid=9671940
+https://live-evg5.tv360.bitel.com.pe/bitel/exitosa_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="PBO.pe" tvg-name="PBO.pe" tvg-logo="https://graph.facebook.com/PBOPeru/picture?width=200&height=200" group-title="Perú",PBO
-https://live-evg11.tv360.bitel.com.pe/bitel/pbo_abr/playlist.m3u8?uid=9671940
+https://live-evg11.tv360.bitel.com.pe/bitel/pbo_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="VisionSur" tvg-name="VisionSur" tvg-logo="https://graph.facebook.com/visionsurtv/picture?width=200&height=200" group-title="Perú",Visión Sur
 https://live-evg11.tv360.bitel.com.pe/bitel/visionsur/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="FMHMovies" tvg-name="FMHMovies" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/24/23/1735058961578/eaf883fb926d_480_270.png" group-title="Perú",FMH Movies
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_abr/playlist.m3u8?uid=9671940
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhmovies_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="FMHKids" tvg-name="FMHKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2024/12/31/22/1735657792230/b870c45f862d_480_270.png" group-title="Perú",FMH Kids
-https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_abr/playlist.m3u8?uid=9671940
+https://live-evg18.tv360.bitel.com.pe/bitel/fmhkids_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="AnimaKids" tvg-name="AnimaKids" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/1751295673567/6fb8c332464c_480_270.png" group-title="Perú",Anima Kids
 https://live-evg25.tv360.bitel.com.pe/bitel/animakids/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="PequesTV" tvg-name="PequesTV" tvg-logo="https://img-evg3.tv360.bitel.com.pe/peru-image/2025/06/30/22/175129608138/cdd7f4ccd761_480_270.png" group-title="Perú",Peques TV
