@@ -6,8 +6,8 @@ https://live-evg18.tv360.bitel.com.pe/bitel/atvsur_720p/playlist.m3u8?uid=967194
 #EXTINF:-1 tvg-id="lch6307" tvg-name="ATV+" tvg-logo="https://graph.facebook.com/atvmasnoticias/picture?width=200&height=200" group-title="Perú", ATV+
 https://live-evg20.tv360.bitel.com.pe/bitel/Atv+-udp_720p/playlist.m3u8?uid=9671940
 #EXTINF:-1 tvg-id="Latina.pe" tvg-name="Latina" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=200&height=200" group-title="Perú", Latina
-https://live-evg20.tv360.bitel.com.pe/bitel/Latina-udp_1080p/playlist.m3u8?uid=9671940
-# https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
+# https://live-evg20.tv360.bitel.com.pe/bitel/Latina-udp_1080p/playlist.m3u8?uid=9671940
+https://jireh-3-hls-video-us-isp.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latina/latina.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="LatinaClasicos.peeee" tvg-name="Latina Clásicos" tvg-logo="https://i.imgur.com/q0dAWyj.png" group-title="Perú",Latina Clásicos
 # https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/plus226/latina2/latina2.smil/playlist.m3u8
